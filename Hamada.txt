@@ -1,0 +1,8 @@
+Random Weather Generator :-
+Description : Windy
+Temperature :Moderate
+High : 75°F (23°C)
+Low : 59°F (15°C)
+Relative : Warmer than normal
+Wind Force : Moderate
+Wind Speed : 11 mph (17 kph)
